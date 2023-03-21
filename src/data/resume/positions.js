@@ -6,6 +6,17 @@ const positions = [
     daterange: 'January 2021 - Present',
     points: [
       'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
+      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
+    ],
+  },
+  {
+    company: 'Github',
+    position: 'Senior Software Engineer',
+    link: 'https://github.com',
+    daterange: 'December 2018 - January 2021',
+    points: [
+      'Developed software in python for automated testing of servers.',
+      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
     ],
   },
   {
